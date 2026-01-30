@@ -64,3 +64,5 @@ console.log(typeof 1000);
 console.log(typeof true);
 console.log(typeof orang);
 console.log(typeof orang2);
+
+console.log("hello");
